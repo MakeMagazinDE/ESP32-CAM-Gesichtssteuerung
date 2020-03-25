@@ -15,8 +15,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "skynet2";
-const char* password = "b34chathom3";
+const char* ssid = "*******";
+const char* password = "*******";
 
 
 // Set your Static IP address
