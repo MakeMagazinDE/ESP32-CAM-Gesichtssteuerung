@@ -1,3 +1,8 @@
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+
+Maker Media GmbH
+*** 
+
 # ESP32-CAM-Gesichtssteuerung
 I/O per Gesicht steuern
 
